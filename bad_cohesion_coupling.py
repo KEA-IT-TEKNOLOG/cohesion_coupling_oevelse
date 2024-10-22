@@ -22,7 +22,7 @@ koden skal omstruktureres (re-formateres).
 Det meste af koden fra eksemplet kan genbruges for at løse øvelsen, men det skal flyttes rundt.
 
 1. prøv at skabe høj cohesion ved at oprette en ny klasse til hvert ansvarsområde
-    - Navngiv hver klasse fornuftigt efter PEP8
+    - Navngiv hver klasse fornuftigt efter PEP8: https://www.python.org/dev/peps/pep-0008
     - Hver klasse skal have sin egen constructor (__init__) og instantiere de objekter der
         kræves for at den kan fungere.
     - Lav nu et objekt for hver af klasserne, til potmeter, neopixel-ring og et til hver trykknap.
